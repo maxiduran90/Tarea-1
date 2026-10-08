@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 // Pedir los dos números al usuario
 let num1 = parseFloat(prompt("Ingresa el primer número:"));
 let num2 = parseFloat(prompt("Ingresa el segundo número:"));
